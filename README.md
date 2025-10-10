@@ -1,2 +1,2 @@
-# minirack
+# Homelab
 This repository is for all my info about my home lab and mini server rack, i also use it for research
