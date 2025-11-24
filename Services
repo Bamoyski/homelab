@@ -1,15 +1,20 @@
 Raspberry Pi 5 8gb
-	PiHole (secondary DNS)
+	Adguard (secondary DNS)
 	
 
 
 Thinkcentre m910q 
 	Jellyfin
-	SAMBA share NAS
-	Minecraft Server
-
-
-
-
-Main PC
-	Running near all torrenting and file transfer to and from NAS *likely to be moved to m910q when I can confirm vpn is keeping all traffic encrypted*
+	2FAuth
+	PVE Scripts Local
+	ConvertX
+	Readeck
+	Myspeed
+	Uptimekuma
+	Alpine IT Tools
+	N8N
+	Pairdrop
+	Debian VM runing Sonarr, Radarr, Jellyseerr, and Qbittorrent
+	
+Optiplex 5050 SFF
+	Used for HA failover for pihole, migrating lots of services here soon
