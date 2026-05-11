@@ -1,7 +1,7 @@
-Thinkcentre m910q (I5 7500T 16GB SODIMM RAM, 128 GB SSD, 1Gb NIC)
+Thinkcentre m910q (I5 7500T 16GB DDR4 SODIMM RAM, 128 GB SSD, 2.5 Gb + 1Gb NIC)
 	CentOS VM
 	
-Optiplex 7050 SFF (I7 7700T 16GB SODIMM RAM, 128 GB SSD, 1Gb NIC)
+Optiplex 7050 SFF (I7 7700T 16GB DDR4 SODIMM RAM, 128 GB SSD, 2,5 Gb + 1Gb NIC)
 	2FAuth
 	PVE Scripts Local
 	ConvertX
@@ -13,10 +13,17 @@ Optiplex 7050 SFF (I7 7700T 16GB SODIMM RAM, 128 GB SSD, 1Gb NIC)
 	Pairdrop
 	AdGuard Home
 	Crafty Controller
-	Immich
 
-Optiplex 5050	(I5 7600, 16GB RDIMM RAM 256GB SSD, 1Gb NIC)
+Optiplex 5050	(I5 7600, 16GB DDR4 RDIMM RAM 256GB SSD, 1Gb NIC)
 	AdGuard Home
 	
-	
+Raspberry Pi 5
+	Birdnet
+	rtl_tcp
+
+
+Plans:
+Immich
+Jellyfin plus arr stack
+Some level of data redundancy
 	
